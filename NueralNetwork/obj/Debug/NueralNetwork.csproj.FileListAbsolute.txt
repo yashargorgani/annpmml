@@ -1,0 +1,18 @@
+c:\users\yashar\documents\visual studio 2013\Projects\NueralNetwork\NueralNetwork\bin\Debug\NueralNetwork.exe.config
+c:\users\yashar\documents\visual studio 2013\Projects\NueralNetwork\NueralNetwork\bin\Debug\NueralNetwork.exe
+c:\users\yashar\documents\visual studio 2013\Projects\NueralNetwork\NueralNetwork\bin\Debug\NueralNetwork.pdb
+c:\users\yashar\documents\visual studio 2013\Projects\NueralNetwork\NueralNetwork\obj\Debug\NueralNetwork.exe
+c:\users\yashar\documents\visual studio 2013\Projects\NueralNetwork\NueralNetwork\obj\Debug\NueralNetwork.pdb
+c:\users\yashar\documents\visual studio 2013\Projects\NueralNetwork\NueralNetwork\obj\Debug\NueralNetwork.csprojResolveAssemblyReference.cache
+D:\IT\PMML\Neural Networks\NueralNetwork\NueralNetwork\bin\Debug\NueralNetwork.exe.config
+D:\IT\PMML\Neural Networks\NueralNetwork\NueralNetwork\obj\Debug\NueralNetwork.exe
+D:\IT\PMML\Neural Networks\NueralNetwork\NueralNetwork\obj\Debug\NueralNetwork.pdb
+D:\IT\PMML\Neural Networks\NueralNetwork\NueralNetwork\bin\Debug\NueralNetwork.exe
+D:\IT\PMML\Neural Networks\NueralNetwork\NueralNetwork\bin\Debug\NueralNetwork.pdb
+D:\IT\PMML\Neural Networks\NueralNetwork\NueralNetwork\obj\Debug\NueralNetwork.csprojResolveAssemblyReference.cache
+E:\IT\PMML\Neural Networks\NueralNetwork\NueralNetwork\bin\Debug\NueralNetwork.exe.config
+E:\IT\PMML\Neural Networks\NueralNetwork\NueralNetwork\obj\Debug\NueralNetwork.exe
+E:\IT\PMML\Neural Networks\NueralNetwork\NueralNetwork\obj\Debug\NueralNetwork.pdb
+E:\IT\PMML\Neural Networks\NueralNetwork\NueralNetwork\bin\Debug\NueralNetwork.exe
+E:\IT\PMML\Neural Networks\NueralNetwork\NueralNetwork\bin\Debug\NueralNetwork.pdb
+E:\IT\PMML\Neural Networks\NueralNetwork\NueralNetwork\obj\Debug\NueralNetwork.csprojResolveAssemblyReference.cache
