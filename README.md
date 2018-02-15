@@ -6,12 +6,12 @@ With this you can implement a model in software, export the PMML file and deploy
 <code>NNModel model = new NNModel("E:/Drug.xml");</code>
 <p>After that, you should create a dictionary for your data input:</p>
 <code>Dictionary<span><</span>string, object<span>></span> input = new Dictionary<span><</span>string, object<span>></span>();</code>
-<code>input.Add("Age", 23);</code>
-<code>input.Add("Sex", "F");</code>
-<code>input.Add("BP", "HIGH");</code>
-<code>input.Add("Cholesterol", "HIGH");</code>
-<code>input.Add("Na", 0.792535);</code>
-<code>input.Add("K", 0.031258);</code>
-  <p> And finally with <code>Predict</code> function you can score your input:</p> 
-  <code> model.Predict(input) </code>
-  <code>Console.WriteLine(model.Predict(input));</code>
+  <code>input.Add("Age", 23);</code></br>
+<code>input.Add("Sex", "F");</code></br>
+<code>input.Add("BP", "HIGH");</code></br>
+<code>input.Add("Cholesterol", "HIGH");</code></br>
+<code>input.Add("Na", 0.792535);</code></br>
+<code>input.Add("K", 0.031258);</code></br>
+<p> And finally with <code>Predict</code> function you can score your input:</p> 
+<code> model.Predict(input) </code></br>
+<code>Console.WriteLine(model.Predict(input));</code>
