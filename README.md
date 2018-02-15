@@ -1,5 +1,5 @@
 # annpmml
-This is a <a href="http://dmg.org/pmml/pmml-v4-2-1.html">PMML v4.2</a> library for deploying and scoring Artificial Neural Network model implemented in <a href="https://www.ibm.com/products/spss-modeler">IBM SPSS Modeler</a> software.
+This is a library for deploying and scoring Artificial Neural Network model <a href="http://dmg.org/pmml/pmml-v4-2-1.html">PMML v4.2</a> implemented in <a href="https://www.ibm.com/products/spss-modeler">IBM SPSS Modeler</a> software.
 With this library you can implement a model in software, export the PMML file and deploy the model in your own application.
 <h3>How to Use</h3>
 <p>In your application code, you construct a <code>NNModel</code> object with path of proper PMML file:</p>
